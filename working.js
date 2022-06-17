@@ -10,14 +10,6 @@ console.log(storage) */
 const textarea = document.getElementById("textArea")
 var index = 0
 const faders = document.querySelector(".fade-in")
-let save = [];
-
-document.getElementById("load").onclick = function(){
-
-    
-}
-
-
 document.getElementById("submitButton").onclick = function(){
 
     let text = textarea.value

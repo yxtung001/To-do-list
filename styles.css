@@ -34,28 +34,11 @@ h1{
     }
     
 }
-/* .fade-in{
-    opacity: 0;
-    transition: opacity 250ms ease-in;
 
-}
-
-.fade-in.appear{
-    opacity: 1;
-}
- */
 
 p{
     display: inline;
 }
-
-
-
-
-
-
-
-
 
 
 
@@ -108,8 +91,9 @@ input[type="text"]:focus{
     z-index: 10;
     top: 0;
     left:20rem;
-    width: 40rem;
+    width: 35rem;
     display: flex;
+    
     
 }
 
